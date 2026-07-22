@@ -1,3 +1,6 @@
+[![build-app](https://github.com/ScaredSlipper/hexlet-ci-app/actions/workflows/app.yml/badge.svg)](https://github.com/ScaredSlipper/hexlet-ci-app/actions/workflows/app.yml)
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
